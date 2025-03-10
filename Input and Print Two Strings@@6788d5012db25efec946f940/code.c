@@ -1,13 +1,7 @@
-#include <stdio.h>
+#include<stdio.h>
+int main(){
+    char a[100], b[100];
+    scanf("%s %s", a, b);
 
-int main() {
-    char str1[100], str2[100]; 
-    
-    // Taking two space-separated strings as input
-    scanf("%s %s", str1, str2);
-    
-    // Printing the entered strings
-    printf("You entered: %s and %s\n", str1, str2);
-    
-    return 0;
+    printf("You entered: %s and %s", a, b);
 }
