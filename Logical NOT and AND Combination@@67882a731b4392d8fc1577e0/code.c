@@ -7,6 +7,6 @@ int main(){
         printf("True\n");
     }
     else{
-        printf("Flase|n");
+        printf("False\n");
     }
 }
