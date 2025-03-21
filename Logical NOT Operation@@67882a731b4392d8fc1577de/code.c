@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main(){
-    int a, num;
-    scanf("%d%d", &a, &num);
+    int num;
+    scanf("%d%d", &num);
 
     if(!(num>0)){
         printf("True\n");
