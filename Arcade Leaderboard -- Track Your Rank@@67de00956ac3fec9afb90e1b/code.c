@@ -1,16 +1,16 @@
 #include<stdio.h>
 int main(){
     int a, b;
-    scanf("%d", &n);
+    scanf("%d", &a);
     int ranke[200000];
-    for (int i = o;i<n; i++) scanf("%d",&ranked[i]);
+    for (int i = o;i<a; i++) scanf("%d",&ranked[i]);
 
-    scanf("%d", &m);
+    scanf("%d", &b);
     int player[200000];
-    for (int i = 0;i<m; i++);
+    for (int i = 0;i<b; i++);
     int result[200000];
 
-    for(int i = 0; i<m; i++)
+    for(int i = 0; i<b; i++)
     printf("%d\n",result[i]);
 
     return 0;
