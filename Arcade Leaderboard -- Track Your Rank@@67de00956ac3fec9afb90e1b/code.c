@@ -2,8 +2,8 @@
 int main(){
     int a, b;
     scanf("%d", &a);
-    int ranke[200000];
-    for (int i = 0;i<a; i++) scanf("%d",&ranked[i]);
+    int ranked[200000];
+    for (int i = 0;i<a; i++) scanf("%d", &ranked[i]);
 
     scanf("%d", &b);
     int player[200000];
