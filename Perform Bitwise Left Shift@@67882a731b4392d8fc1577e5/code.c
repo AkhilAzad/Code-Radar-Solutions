@@ -4,6 +4,6 @@ int main(){
     scanf("%d%d", &a, &b, &shift);
     int resultA = a << shift;
     int resultB = b << shift;
-    printf("%d << %d = %d\n", a, shift, resultA);
-    printf("%d << %d = %d\n", b, shift, resultB);
+    printf("%d\n", a, shift, resultA);
+    printf("%d\n", b, shift, resultB);
 }
